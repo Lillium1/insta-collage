@@ -1,0 +1,96 @@
+#login-insta{
+	background: linear-gradient(135deg, rgba(72, 214, 36, 0.98) 0%, rgba(56, 99, 255, 1) 107%, rgba(26, 35, 147, 1) 122%, rgba(111, 237, 46, 1) 100%);
+}
+
+.btn-group button {
+	border: none;
+	background: transparent;
+}
+
+.selecc-idioma .btn, .opc-idioma {
+	padding: 0;
+	color: whitesmoke;
+}
+
+.text-center {
+	padding: 20px;
+}
+
+.logo-instagram{
+	width: 70%;
+	margin: center;
+}
+
+.olvide, .olvide a{
+	color: whitesmoke; 
+	margin: 20px 30px;
+	text-align: center;
+}
+
+.login-fb a{
+	color: whitesmoke;
+	font-size: 15px;
+	margin-bottom: 200px; 
+}
+
+.login-or {
+	position: relative;
+	font-size: 18px;
+	color: white;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.span-or {
+	display: block;
+	position: absolute;
+	left: 50%;
+	top: -2px;
+	margin-left: -25px;
+	width: 50px;
+	text-align: center;
+
+}
+.hr-or-der{
+	height: 1px;
+	width: 45%;
+	float: right;
+	margin-top: 0px !important;
+	margin-bottom: 0px !important;
+}
+
+.hr-or-izq{
+	height: 1px;
+	width: 45%;
+	float: left;
+	margin-top: 0px !important;
+	margin-bottom: 0px !important;
+}
+
+.form-control {
+	background: rgba(255, 251, 251, 0.2);
+	border: none;
+	color: white;
+	margin:15px;
+	width: 90%;
+	border-radius: 3px;
+}
+
+.login_box button{
+	background: transparent;
+	color: white;
+	width: 100%;
+	border-radius: 3px;
+	border: 1px solid whitesmoke;
+}
+
+.footer-bottom {
+	background: rgba(255, 251, 251, 0.2);
+	color: white;
+	padding: 10px;
+}
+
+.input-box.text-center {
+	padding: 0;
+}

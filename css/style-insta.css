@@ -12,13 +12,17 @@
 	color: whitesmoke;
 }
 
-.text-center {
-	padding: 20px;
+.logo-col {
+	padding: 40px 10px 0 0;
 }
+
+.text-center.idiomas {
+	padding-top: 20px;
+}
+
 
 .logo-instagram{
 	width: 70%;
-	margin: center;
 }
 
 .olvide, .olvide a{
@@ -27,10 +31,10 @@
 	text-align: center;
 }
 
-.login-fb a{
+.login-fb, .login-fb a {
 	color: whitesmoke;
 	font-size: 15px;
-	margin-bottom: 200px; 
+	margin-bottom: 20%; 
 }
 
 .login-or {
@@ -80,7 +84,7 @@
 .login_box button{
 	background: transparent;
 	color: white;
-	width: 100%;
+	width: 90%;
 	border-radius: 3px;
 	border: 1px solid whitesmoke;
 }
@@ -89,8 +93,18 @@
 	background: rgba(255, 251, 251, 0.2);
 	color: white;
 	padding: 10px;
+	border-top: 1px;
+	text-align: center;	
 }
 
+.footer-bottom a{
+	color: white;
+}
 .input-box.text-center {
 	padding: 0;
+}
+
+.col-lg-12.col-md-12.col-sm-12.col-xs-12.footer-insta {
+	padding-left: 0;
+	padding-right: 0;
 }
